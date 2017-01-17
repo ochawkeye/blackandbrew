@@ -139,6 +139,7 @@ def insert_used_into_db(players_used, table):
 
 
 def get_nfl_teams_remaining():
+    """TODO: find a way to generate actual NFL teams that are alive."""
     return ['ATL', 'PIT', 'NE', 'GB']
 
 
