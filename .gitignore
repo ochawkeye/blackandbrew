@@ -1,0 +1,3 @@
+*.pyc
+database_config.py
+*rosters.csv
