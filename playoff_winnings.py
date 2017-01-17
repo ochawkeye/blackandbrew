@@ -46,7 +46,7 @@ def print_winnings(balance_table):
 if __name__ == '__main__':
     # print_winnings(current_winnings_from_db('Players'))
 
-    update_players_winnings('Players', 'Logan, Nicole', 0)
+    update_players_winnings('Players', 'Schroder, dave', 0)
 
     print_winnings(current_winnings_from_db('Players'))
 
